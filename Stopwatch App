@@ -31,7 +31,7 @@
             padding: 20px 30px;
             font-size: 0.5em;
             color:rgb(14, 14, 14);
-            background-color: rgb(145, 200, 187);
+            background-color: rgb(189, 213, 208);
             border-radius: 50px;
             border-radius: 20px;
         }
